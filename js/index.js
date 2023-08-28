@@ -13,7 +13,7 @@ function fadeIn() {
     // index is the index of the current link in the mobileMenuLinks array
     setTimeout(() => {
       link.style.opacity = '1';
-    }, 250 + index * 100);
+    }, 300 + index * 100);
   });
 }
 
@@ -29,7 +29,7 @@ function fadeOut(callback) {
     }, index * 100);
   });
   // 250ms delay before callback is called
-  setTimeout(callback, mobileMenuLinks.length * 100 + 250); // callback after all links have faded out
+  setTimeout(callback, mobileMenuLinks.length * 100 + 300);
 }
 
 // Toggle Menu On When Clicked
