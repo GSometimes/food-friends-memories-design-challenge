@@ -7,6 +7,9 @@ But the culinary journey isn’t just about food for Alex. It’s about the stor
 **“Savor the Moment, Relish the Memory.”**
 
 # What You're Creating
+|                     Desktop                      |
+| :----------------------------------------------: |
+| ![ffm-desktop-render](assets/Food-Friends-Memories-Demo.gif) |
 
 |                     Desktop                      |
 | :----------------------------------------------: |
